@@ -132,7 +132,4 @@ def update_graph(color_filter, x_label, y_label):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=False,
-                      port=44277,
-                   #    host="peaceful-wave-95791.herokuapp.com"
-                   )
+    app.run_server(debug=True)

@@ -2,3 +2,4 @@ dash
 sklearn
 pandas
 plotly
+gunicorn
