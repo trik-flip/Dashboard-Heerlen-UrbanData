@@ -1,0 +1,68 @@
+{
+    "Analyse woningen": [
+        [
+            "Wonen_Woningen_naar_bouwjaar_Bouwjaar_voor_2000",
+            "Inkomen_Inkomen_van_huishoudens_Huishoudens_met_een_laag_inkomen",
+            "Inkomen_Inkomen_van_huishoudens_Huish_onder_of_rond_sociaal_minimum"
+        ],
+        [],
+        "In de analyse omtrend woningen kijken we naar kenmerken zoals de leeftijd van het gebouw, en het inkomen van de inwoners, hierbij delen wij deze op in drie groepen."
+    ],
+    "Analyse criminaliteit": [
+        [
+            "Criminaliteit_Totaal_diefstal_uit_woning_schuur_ed",
+            "Criminaliteit_Vernieling_misdrijf_tegen_openbare_orde",
+            "Criminaliteit_Gewelds__en_seksuele_misdrijven",
+            "Inkomen_Inkomen_van_huishoudens_Huishoudens_met_een_laag_inkomen",
+            "Inkomen_Inkomen_van_huishoudens_Huish_onder_of_rond_sociaal_minimum"
+        ],
+        [
+            "Weinig Criminaliteit",
+            "Gemiddeld Criminaliteit",
+            "Hoge Criminaliteit"
+        ],
+        "In de analyse omtrend criminaliteit focussen we ons op het opdelen van wijken qua criminaliteits niveau en inkomen qua huishouden."
+    ],
+    "Analyse woningcorporaties": [
+        [
+            "Wonen_Woningen_naar_eigendom_Huurwoningen_In_bezit_woningcorporatie",
+            "Inkomen_Inkomen_van_huishoudens_Huishoudens_met_een_laag_inkomen",
+            "Inkomen_Inkomen_van_huishoudens_Huish_onder_of_rond_sociaal_minimum"
+        ],
+        [
+            "Laag bezit door wc (tot 30%)",
+            "Gemiddeld bezit door wc (30% tot 60%)",
+            "Hoog bezit door wc (vanaf 60%)"
+        ],
+        "In de analyse omtrend woningcorporaties willen we de focus leggen op het onderscheiden van buurt qua het marktaandeel van de woningcorporaties in een wijk of buurt."
+    ],
+    "Analyse afkomst": [
+        [
+            "Bevolking_Personen_met_een_migratieachtergrond_Westers_totaal",
+            "Bevolking_Personen_met_een_migratieachtergrond_Niet_westers_Niet_westers_totaal",
+            "Bevolking_Personen_met_een_migratieachtergrond_Niet_westers_Marokko",
+            "Bevolking_Personen_met_een_migratieachtergrond_Niet_westers_Nederlandse_Antillen_en_Aruba",
+            "Bevolking_Personen_met_een_migratieachtergrond_Niet_westers_Suriname",
+            "Bevolking_Personen_met_een_migratieachtergrond_Niet_westers_Turkije",
+            "Bevolking_Personen_met_een_migratieachtergrond_Niet_westers_Overig_niet_westers"
+        ],
+        [
+            "Normale westerse migraite achtegrond",
+            "Lage westerse migraite achtegrond",
+            "Hoge westerse migraite achtegrond"
+        ]
+    ],
+    "Analyse uitkering": [
+        [
+            "Sociale_zekerheid_Personen_per_soort_uitkering_Bijstand",
+            "Sociale_zekerheid_Personen_per_soort_uitkering_AO",
+            "Sociale_zekerheid_Personen_per_soort_uitkering_WW"
+        ],
+        [
+            "Normale uitkering",
+            "Weinig uitkering",
+            "Veel uitkering"
+        ],
+        "In de analyse omtrend uitkering willen we de focus leggen op het onderscheiden van buurt puur en alleen op basis van hoeveel uitkering er besteed wordt aan een buurt."
+    ]
+}
