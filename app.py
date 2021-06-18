@@ -30,7 +30,7 @@ df = df.dropna(subset=[
 ])
 
 app = dash.Dash(__name__)
-
+server = app.server
 for key in pre_coded_analyses:
     model = KMeans(3, random_state=42)
     model.fit(df[pre_coded_analyses[key][0]])
